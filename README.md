@@ -2,7 +2,7 @@ Code is aadha adhura (there is some issue with fixing the winner try it yourself
 # snake-water-gun
 
 
-Its a simple snake water gun game consisting of 2 players 1 is yourself and the other one will be your machine written in python 3.6 using the built in module random. 
+Its a simple snake water gun game consisting of 2 players 1 is yourself and the other one will be your machine written in python version 3.6 using the built in module random. 
 You can kill time by running this file whenever you feel you are free with all problems in your life.
 
 
